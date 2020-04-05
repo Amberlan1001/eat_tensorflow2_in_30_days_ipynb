@@ -48,7 +48,7 @@ eat_tensorflow2_in_30_days_ipynb 为[《30天吃掉那只TensorFlow2.0 》](http
 |&nbsp;| [后记：一个吃货和一道菜的故事](后记：一个吃货和一道菜的故事.md) | ⭐️|0hour|✅  |
 
 
-**2，运行环境**
+### 2、运行环境**
 
 
 本书全部源码在jupyter中编写测试通过，建议通过git克隆到本地，并在jupyter中交互式运行学习。
