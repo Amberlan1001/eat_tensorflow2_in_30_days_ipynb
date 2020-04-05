@@ -1,6 +1,8 @@
 ## eat_tensorflow2_in_30_days_ipynb
 
-eat_tensorflow2_in_30_days_ipynb 为[《30天吃掉那只TensorFlow2.0 》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) Jupyter Notebook 运行版本。感谢原作者[lyhue1991](https://github.com/lyhue1991)提供的教程。
+eat_tensorflow2_in_30_days_ipynb为[《30天吃掉那只TensorFlow2.0 》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)Jupyter Notebook 运行版本。
+  
+感谢原作者[lyhue1991](https://github.com/lyhue1991)提供的原教程。
 
 
 ### 1、章节目录 ⏰
