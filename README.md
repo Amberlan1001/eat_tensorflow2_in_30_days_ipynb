@@ -47,7 +47,6 @@ eat_tensorflow2_in_30_days_ipynb为[《30天吃掉那只TensorFlow2.0 》](https
 |day28|  [6-5 使用TPU训练模型](六、TensorFlow的高阶API/6-5使用TPU训练模型.ipynb)   | ⭐️⭐️   |   0.5hour    |✅  |
 |day29| [6-6 使用tensorflow-serving部署模型](六、TensorFlow的高阶API/6-6使用tensorflow-serving部署模型.ipynb) | ⭐️⭐️⭐️⭐️| 1hour |✅   |
 |day30| [6-7 使用spark-scala调用tensorflow模型](六、TensorFlow的高阶API/6-7使用spark-scala调用tensorflow模型.ipynb) | ⭐️⭐️⭐️⭐️⭐️|2hour|✅  |
-|&nbsp;| [后记：一个吃货和一道菜的故事](后记：一个吃货和一道菜的故事.md) | ⭐️|0hour|✅  |
 
 
 ### 2、运行环境**
