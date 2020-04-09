@@ -11,12 +11,12 @@ Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
 
 |Date |Contents                                                       | Difficulties   | Est. Time | Status|
 |----:|:--------------------------------------------------------------|-----------:|----------:|-----:|
-|&nbsp;|[**Chapter 1: Modeling Procedure of TensorFlow**](Chapter1 Modeling Procedure of TensorFlow/Chapter1.md)    |⭐️   |   0hour   |✅    |
-|Day 1 |  [1-1 Example: Modeling Procedure for Structured Data](Chapter1 Modeling Procedure of TensorFlow/1-1Example_Modeling_Procedure_for_Structured_Data.ipynb)    | ⭐️⭐️⭐️ |   1hour    |✅    |
-|Day 2 |[1-2 Example: Modeling Procedure for Images](Chapter1 Modeling Procedure of TensorFlow/1-2Example_Modeling_Procedure_for_Images.ipynb)    | ⭐️⭐️⭐️⭐️  |   2hour    |✅    |
-|Day 3 |  [1-3 Example: Modeling Procedure for Texts](Chapter1 Modeling Procedure of TensorFlow/1-3Example_Modeling_Procedure_for_Texts.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
-|Day 4 |  [1-4 Example: Modeling Procedure for Temporal Sequences](Chapter1 Modeling Procedure of TensorFlow/1-4Example_Modeling_Procedure_for_Temporal_Sequences.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
-|&nbsp;    |[**Chapter 2: Key Concepts of TensorFlow**](Chapter2 Key Concepts of TensorFlow/Chapter2.md)  | ⭐️  |  0hour |✅  |
+|&nbsp;|[**Chapter 1: Modeling Procedure of TensorFlow**](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/Chapter1.md)    |⭐️   |   0hour   |✅    |
+|Day 1 |  [1-1 Example: Modeling Procedure for Structured Data](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-1Example_Modeling_Procedure_for_Structured_Data.ipynb)    | ⭐️⭐️⭐️ |   1hour    |✅    |
+|Day 2 |[1-2 Example: Modeling Procedure for Images](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-2Example_Modeling_Procedure_for_Images.ipynb)    | ⭐️⭐️⭐️⭐️  |   2hour    |✅    |
+|Day 3 |  [1-3 Example: Modeling Procedure for Texts](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-3Example_Modeling_Procedure_for_Texts.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
+|Day 4 |  [1-4 Example: Modeling Procedure for Temporal Sequences](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-4Example_Modeling_Procedure_for_Temporal_Sequences.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
+|&nbsp;    |[**Chapter 2: Key Concepts of TensorFlow**](Chapter2%20Key%20Concepts%20of%20TensorFlow/Chapter2.md)  | ⭐️  |  0hour |✅  |
 |Day 5 |  [2-1 Data Structure of Tensor](./2-1,张量数据结构.md)  | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️    |
 |Day 6 |  [2-2 Three Types of Graph](./2-2,三种计算图.md)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |🛠️    |
 |Day 7 |  [2-3 Automatic Differentiate](./2-3,自动微分机制.md)  | ⭐️⭐️⭐️   |   1hour    |🛠️    |
