@@ -1,5 +1,7 @@
 ## eat_tensorflow2_in_30_days_ipynb
 
+**切换至[中文版](https://github.com/Amberlan1001/eat_tensorflow2_in_30_days_ipynb)**
+
 eat_tensorflow2_in_30_days_ipynb is Jupyter Notebook running version of [《Eat That TensorFlow2.0 in 30 Days》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days/tree/english).
   
 Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
