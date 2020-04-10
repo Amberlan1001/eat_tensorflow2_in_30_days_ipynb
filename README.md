@@ -17,9 +17,9 @@ Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
 |Day 3 |  [1-3 Example: Modeling Procedure for Texts](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-3Example_Modeling_Procedure_for_Texts.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
 |Day 4 |  [1-4 Example: Modeling Procedure for Temporal Sequences](Chapter1%20Modeling%20Procedure%20of%20TensorFlow/1-4Example_Modeling_Procedure_for_Temporal_Sequences.ipynb)   | ⭐️⭐️⭐️⭐️⭐️  |   2hour    |✅    |
 |&nbsp;    |[**Chapter 2: Key Concepts of TensorFlow**](Chapter2%20Key%20Concepts%20of%20TensorFlow/Chapter2.md)  | ⭐️  |  0hour |✅  |
-|Day 5 |  [2-1 Data Structure of Tensor](./2-1,张量数据结构.md)  | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️    |
-|Day 6 |  [2-2 Three Types of Graph](./2-2,三种计算图.md)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |🛠️    |
-|Day 7 |  [2-3 Automatic Differentiate](./2-3,自动微分机制.md)  | ⭐️⭐️⭐️   |   1hour    |🛠️    |
+|Day 5 |  [2-1 Data Structure of Tensor](Chapter2%20Key%20Concepts%20of%20TensorFlow/2-1Data_Structure.ipynb)  | ⭐️⭐️⭐️⭐️   |   1hour    |✅    |
+|Day 6 |  [2-2 Three Types of Graph](Chapter2%20Key%20Concepts%20of%20TensorFlow/2-2Three_Types_of_Graph.ipynb)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅    |
+|Day 7 |  [2-3 Automatic Differentiate](Chapter2%20Key%20Concepts%20of%20TensorFlow/2-3Automatic_Differentiate.ipynb)  | ⭐️⭐️⭐️   |   1hour    |✅    |
 |&nbsp; |[**Chapter 3: Hierarchy of TensorFlow**](./三、TensorFlow的层次结构.md) |   ⭐️  |  0hour   |🛠️  |
 |Day 8 |  [3-1 Low-level API: Demonstration](./3-1,低阶API示范.md)   | ⭐️⭐️   |   0.5hour    |🛠️   |
 |Day 9 |  [3-2 Mid-level API: Demonstration](./3-2,中阶API示范.md)   | ⭐️⭐️⭐️   |   0.5hour    |🛠️  |
