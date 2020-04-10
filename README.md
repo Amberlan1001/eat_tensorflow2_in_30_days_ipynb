@@ -4,7 +4,7 @@ eat_tensorflow2_in_30_days_ipynb为[《30天吃掉那只TensorFlow2.0 》](https
   
 感谢原作者[lyhue1991](https://github.com/lyhue1991)提供的教程。
 
-**英文版请切换 [english](https://github.com/Amberlan1001/eat_tensorflow2_in_30_days_ipynb/tree/english) 分支。**
+**[Convert to English version.](https://github.com/Amberlan1001/eat_tensorflow2_in_30_days_ipynb/tree/english)**
 
 ### 1、章节目录 ⏰
 
