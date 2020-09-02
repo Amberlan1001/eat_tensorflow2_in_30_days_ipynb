@@ -26,12 +26,12 @@ Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
 |Day 8 |  [3-1 Low-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-1Low-level_API_Demonstration.ipynb)   | ⭐️⭐️   |   0.5hour    |✅   |
 |Day 9 |  [3-2 Mid-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-2Mid-level_API_Demonstration.ipynb)   | ⭐️⭐️⭐️   |   0.5hour    |✅  |
 |Day 10 |  [3-3 High-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-3High-level_API_Demonstration.ipynb)  | ⭐️⭐️⭐️   |   0.5hour    |✅  |
-|&nbsp; |[**Chapter 4: Low-level API in TensorFlow**](Chapter%204%20Key%20Concepts%20of%20TensorFlow/Chapter4.md) |⭐️    | 0hour|✅  |
-|Day 11|  [4-1 Structural Operations of the Tensor](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-1Structural_Operations_of the_Tensor.ipynb)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅   |
-|Day 12|  [4-2 Mathematical Operations of the Tensor](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-2Mathematical_Operations of_the_Tensor.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
-|Day 13|  [4-3 Rules of Using the AutoGraph](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-3Rules_of_Using_the_AutoGraph.ipynb)| ⭐️⭐️⭐️   |   0.5hour    |✅  |
-|Day 14|  [4-4 Mechanisms of the AutoGraph](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-4Mechanisms_of_the_AutoGraph.ipynb)    | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅  |
-|Day 15|  [4-5 AutoGraph and tf.Module](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-5AutoGraph_and_tf.Module.ipynb)  | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
+|&nbsp; |[**Chapter 4: Low-level API in TensorFlow**](Chapter%204%20Low-level%20API%20in%20TensorFlow/Chapter4.md) |⭐️    | 0hour|✅  |
+|Day 11|  [4-1 Structural Operations of the Tensor](Chapter%204%20Low-level%20API%20in%20TensorFlow/4-1Structural_Operations_of_the_Tensor.ipynb)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅   |
+|Day 12|  [4-2 Mathematical Operations of the Tensor](Chapter%204%20Low-level%20API%20in%20TensorFlow/4-2Mathematical_Operations_of_the_Tensor.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
+|Day 13|  [4-3 Rules of Using the AutoGraph](Chapter%204%20Low-level%20API%20in%20TensorFlow/4-3Rules_of_Using_the_AutoGraph.ipynb)| ⭐️⭐️⭐️   |   0.5hour    |✅  |
+|Day 14|  [4-4 Mechanisms of the AutoGraph](Chapter%204%20Low-level%20API%20in%20TensorFlow/4-4Mechanisms_of_the_AutoGraph.ipynb)    | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅  |
+|Day 15|  [4-5 AutoGraph and tf.Module](Chapter%204%20Low-level%20API%20in%20TensorFlow/4-5AutoGraph_and_tf.Module.ipynb)  | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
 |&nbsp; |[**Chapter 5: Mid-level API in TensorFlow**](Chapter%205%Mid-level%20API%20in%20TensorFlow/Chapter5.md) |  ⭐️  | 0hour|✅ |
 |Day 16|  [5-1 Dataset](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-1Dataset.ipynb)   | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅  |
 |Day 17|  [5-2 feature_column](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-2feature_column.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    ✅  |
