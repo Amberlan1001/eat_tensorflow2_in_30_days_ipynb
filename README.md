@@ -26,21 +26,21 @@ Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
 |Day 8 |  [3-1 Low-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-1Low-level_API_Demonstration.ipynb)   | ⭐️⭐️   |   0.5hour    |✅   |
 |Day 9 |  [3-2 Mid-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-2Mid-level_API_Demonstration.ipynb)   | ⭐️⭐️⭐️   |   0.5hour    |✅  |
 |Day 10 |  [3-3 High-level API: Demonstration](Chapter%203%20Hierarchy%20of%20TensorFlow/3-3High-level_API_Demonstration.ipynb)  | ⭐️⭐️⭐️   |   0.5hour    |✅  |
-|&nbsp; |[**Chapter 4: Low-level API in TensorFlow**](./四、TensorFlow的低阶API.md) |⭐️    | 0hour|🛠️  |
-|Day 11|  [4-1 Structural Operations of the Tensor](./4-1,张量的结构操作.md)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |🛠️   |
-|Day 12|  [4-2 Mathematical Operations of the Tensor](./4-2,张量的数学运算.md)   | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️  |
-|Day 13|  [4-3 Rules of Using the AutoGraph](./4-3,AutoGraph的使用规范.md)| ⭐️⭐️⭐️   |   0.5hour    |🛠️  |
-|Day 14|  [4-4 Mechanisms of the AutoGraph](./4-4,AutoGraph的机制原理.md)    | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |🛠️  |
-|Day 15|  [4-5 AutoGraph and tf.Module](./4-5,AutoGraph和tf.Module.md)  | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️  |
-|&nbsp; |[**Chapter 5: Mid-level API in TensorFlow**](./五、TensorFlow的中阶API.md) |  ⭐️  | 0hour|🛠️ |
-|Day 16|  [5-1 Dataset](./5-1,数据管道Dataset.md)   | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |🛠️  |
-|Day 17|  [5-2 feature_column](./5-2,特征列feature_column.md)   | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️  |
-|Day 18|  [5-3 activation](./5-3,激活函数activation.md)    | ⭐️⭐️⭐️   |   0.5hour    |🛠️   |
-|Day 19|  [5-4 layers](./5-4,模型层layers.md)  | ⭐️⭐️⭐️   |   1hour    |🛠️  |
-|Day 20|  [5-5 losses](./5-5,损失函数losses.md)    | ⭐️⭐️⭐️   |   1hour    |🛠️  |
-|Day 21|  [5-6 metrics](./5-6,评估指标metrics.md)    | ⭐️⭐️⭐️   |   1hour    |🛠️   |
-|Day 22|  [5-7 optimizers](./5-7,优化器optimizers.md)    | ⭐️⭐️⭐️   |   0.5hour    |🛠️   |
-|Day 23|  [5-8 callbacks](./5-8,回调函数callbacks.md)   | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️   |
+|&nbsp; |[**Chapter 4: Low-level API in TensorFlow**](Chapter%204%20Key%20Concepts%20of%20TensorFlow/Chapter4.md) |⭐️    | 0hour|✅  |
+|Day 11|  [4-1 Structural Operations of the Tensor](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-1Structural_Operations_of the_Tensor.ipynb)  | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅   |
+|Day 12|  [4-2 Mathematical Operations of the Tensor](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-2Mathematical_Operations of_the_Tensor.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
+|Day 13|  [4-3 Rules of Using the AutoGraph](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-3Rules_of_Using_the_AutoGraph.ipynb)| ⭐️⭐️⭐️   |   0.5hour    |✅  |
+|Day 14|  [4-4 Mechanisms of the AutoGraph](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-4Mechanisms_of_the_AutoGraph.ipynb)    | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅  |
+|Day 15|  [4-5 AutoGraph and tf.Module](Chapter%204%Structural%20Operations%20of%20the%20Tensor/4-5AutoGraph_and_tf.Module.ipynb)  | ⭐️⭐️⭐️⭐️   |   1hour    |✅  |
+|&nbsp; |[**Chapter 5: Mid-level API in TensorFlow**](Chapter%205%Mid-level%20API%20in%20TensorFlow/Chapter5.md) |  ⭐️  | 0hour|✅ |
+|Day 16|  [5-1 Dataset](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-1Dataset.ipynb)   | ⭐️⭐️⭐️⭐️⭐️   |   2hour    |✅  |
+|Day 17|  [5-2 feature_column](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-2feature_column.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    ✅  |
+|Day 18|  [5-3 activation](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-3activation.ipynb)    | ⭐️⭐️⭐️   |   0.5hour    |✅   |
+|Day 19|  [5-4 layers](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-4layers.ipynb)  | ⭐️⭐️⭐️   |   1hour    |✅  |
+|Day 20|  [5-5 losses](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-5losses.ipynb)    | ⭐️⭐️⭐️   |   1hour    |✅  |
+|Day 21|  [5-6 metrics](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-6metrics.ipynb)    | ⭐️⭐️⭐️   |   1hour    |✅   |
+|Day 22|  [5-7 optimizers](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-7optimizers.ipynb)    | ⭐️⭐️⭐️   |   0.5hour    |✅   |
+|Day 23|  [5-8 callbacks](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-8callbacks.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    |✅   |
 |&nbsp; |[**Chapter 6: High-level API in TensorFlow**](./六、TensorFlow的高阶API.md)|    ⭐️ | 0hour|🛠️  |
 |Day 24|  [6-1 Three Ways of Modeling](./6-1,构建模型的3种方法.md)   | ⭐️⭐️⭐️   |   1hour    |🛠️ |
 |Day 25|  [6-2 Three Ways of Training](./6-2,训练模型的3种方法.md)  | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️   |
