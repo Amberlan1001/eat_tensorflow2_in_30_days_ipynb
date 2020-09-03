@@ -41,14 +41,14 @@ Thanks to [lyhue1991](https://github.com/lyhue1991) for the tutorial.
 |Day 21|  [5-6 metrics](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-6metrics.ipynb)    | ⭐️⭐️⭐️   |   1hour    |✅   |
 |Day 22|  [5-7 optimizers](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-7optimizers.ipynb)    | ⭐️⭐️⭐️   |   0.5hour    |✅   |
 |Day 23|  [5-8 callbacks](Chapter%205%Mid-level%20API%20in%20TensorFlow/5-8callbacks.ipynb)   | ⭐️⭐️⭐️⭐️   |   1hour    |✅   |
-|&nbsp; |[**Chapter 6: High-level API in TensorFlow**](./六、TensorFlow的高阶API.md)|    ⭐️ | 0hour|🛠️  |
-|Day 24|  [6-1 Three Ways of Modeling](./6-1,构建模型的3种方法.md)   | ⭐️⭐️⭐️   |   1hour    |🛠️ |
-|Day 25|  [6-2 Three Ways of Training](./6-2,训练模型的3种方法.md)  | ⭐️⭐️⭐️⭐️   |   1hour    |🛠️   |
-|Day 26|  [6-3 Model Training Using Single GPU](./6-3,使用单GPU训练模型.md)    | ⭐️⭐️   |   0.5hour    |🛠️   |
-|Day 27|  [6-4 Model Training Using Multiple GPUs](./6-4,使用多GPU训练模型.md)    | ⭐️⭐️   |   0.5hour    |🛠️  |
-|Day 28|  [6-5 Model Training Using TPU](./6-5,使用TPU训练模型.md)   | ⭐️⭐️   |   0.5hour    |🛠️  |
-|Day 29| [6-6 Model Deploying Using tensorflow-serving](./6-6,使用tensorflow-serving部署模型.md) | ⭐️⭐️⭐️⭐️| 1hour |🛠️   |
-|Day 30| [6-7 Call Tensorflow Model Using spark-scala](./6-7,使用spark-scala调用tensorflow模型.md) | ⭐️⭐️⭐️⭐️⭐️|2hour|🛠️  |
+|&nbsp; |[**Chapter 6: High-level API in TensorFlow**](Chapter%206%20High-level%20API%20in%20TensorFlow/Chapter6.md)|    ⭐️ | 0hour|✅  |
+|Day 24|  [6-1 Three Ways of Modeling](Chapter%206%20High-level%20API%20in%20TensorFlow/6-1Three_Ways_of_Modeling.ipynb)   | ⭐️⭐️⭐️   |   1hour    |✅ |
+|Day 25|  [6-2 Three Ways of Training](Chapter%206%20High-level%20API%20in%20TensorFlow/6-2Three_Ways_of_Training.ipynb)  | ⭐️⭐️⭐️⭐️   |   1hour    |✅   |
+|Day 26|  [6-3 Model Training Using Single GPU](Chapter%206%20High-level%20API%20in%20TensorFlow/6-3Model_Training_Using_Single_GPU.ipynb)    | ⭐️⭐️   |   0.5hour    |✅   |
+|Day 27|  [6-4 Model Training Using Multiple GPUs](Chapter%206%20High-level%20API%20in%20TensorFlow/6-4Model_Training_Using_Multiple_GPUs.ipynb)    | ⭐️⭐️   |   0.5hour    |✅  |
+|Day 28|  [6-5 Model Training Using TPU](Chapter%206%20High-level%20API%20in%20TensorFlow/6-5Model_Training_Using_TPU.ipynb)   | ⭐️⭐️   |   0.5hour    |✅  |
+|Day 29| [6-6 Model Deploying Using tensorflow-serving](Chapter%206%20High-level%20API%20in%20TensorFlow/6-6Model_Deploying_Using_tensorflow-serving.ipynb) | ⭐️⭐️⭐️⭐️| 1hour |✅   |
+|Day 30| [6-7 Call Tensorflow Model Using spark-scala](Chapter%206%20High-level%20API%20in%20TensorFlow/6-7Call_Tensorflow_Model_Using_spark-scala.ipynb) | ⭐️⭐️⭐️⭐️⭐️|2hour|✅  |
 
 ### 2、operating environment
 
