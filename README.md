@@ -66,6 +66,6 @@ import tensorflow as tf
 tf.print("tensorflow version:",tf.__version__)
 ```
 
-```
+```python
 tensorflow version: 2.1.0
 ```
