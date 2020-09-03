@@ -1,28 +1,0 @@
-
-V1R
-	/host:CPU1“Ê2
-
-tf_Compute“Ê2¤Ä2
-ZMQbg/1¤Ä2–Ê2
-
-tf_Compute–Ê2"+1¤Ä2TFE_Py_FastPathExecute_CHÀóëçPÀýžl",1¤Ä2EagerExecute: VarHandleOpHÀ¯Ê¿P€«"11¤Ä2EagerLocalExecute: VarHandleOpHÀ¸ÄÀP€¢•"+1¤Ä2ValidateInputTypeAndPlacementHÀÓ²Ã"%1¤Ä2EagerKernelExecuteH€óÝÆP€ã¾
-"*1¤Ä2VarHandleOp:VarHandleOpH€…ÒÈPÀÃ“"+1¤Ä2TFE_Py_FastPathExecute_CHÀ«¤ÚP€õ²"31¤Ä2 EagerExecute: VarIsInitializedOpH€ÝÃßPÀº™"81¤Ä2%EagerLocalExecute: VarIsInitializedOpHÀá€àP€¶Ü"/1¤Ä2ValidateInputTypeAndPlacementH€æ½àPÀ„="%1¤Ä2EagerKernelExecuteHÀêúàP€­â"81¤Ä2%VarIsInitializedOp:VarIsInitializedOpHÀóôáPÀŸ«"+1¤Ä2TFE_Py_FastPathExecute_CHÀú›ðPÀÃ“"01¤Ä2EagerLocalExecute: LogicalNotH€‘ÍòP€¤è"+1¤Ä2EagerExecute: LogicalNotH€‘ÍòP€¤è"/1¤Ä2ValidateInputTypeAndPlacementHÀ•ŠóPÀ„="%1¤Ä2EagerKernelExecuteH€šÇóP€›î"(1¤Ä2LogicalNot:LogicalNotHÀž„ôP€’ô"+1¤Ä2TFE_Py_FastPathExecute_CH€â—ûPÀ²Í;"'1¤Ä2EagerExecute: AssertHÀÞˆ±PÀ¨¥",1¤Ä2EagerLocalExecute: AssertH€ãÅ±P€¤è"/1¤Ä2ValidateInputTypeAndPlacementH€ì¿²PÀ„="%1¤Ä2EagerKernelExecuteH€õ¹³P€’ô"1¤Ä2Assert:AssertH€þ³´PÀ„=")1¤Ä2TFE_DeleteTensorHandleH€¢œ¸PÀ·")1¤Ä2TFE_DeleteTensorHandleH€ÿáêPÀ·"+1¤Ä2TFE_Py_FastPathExecute_CH€†‰ùP€þ¬"11¤Ä2EagerExecute: AssignVariableOpHÀ·¨þPÀÃ“"61¤Ä2#EagerLocalExecute: AssignVariableOpH€¼åþP€¿Ö"/1¤Ä2ValidateInputTypeAndPlacementH€ÅßÿPÀ„="%1¤Ä2EagerKernelExecuteHÀÉœ€PÀ±Ÿ"41¤Ä2!AssignVariableOp:AssignVariableOpHÀÒ–P€¤è"(1¤Ä2TFE_DeleteTensorHandleH€’–—PÀ„="+1¤Ä2TFE_Py_FastPathExecute_CH€÷ËüP€´‰"21¤Ä2EagerExecute: DestroyResourceOpHÀÞÇ‡PÀÃ“"71¤Ä2$EagerLocalExecute: DestroyResourceOpHÀçÁˆPÀº™"/1¤Ä2ValidateInputTypeAndPlacementHÀð»‰PÀ„="%1¤Ä2EagerKernelExecuteHÀùµŠP€¤è"61¤Ä2#DestroyResourceOp:DestroyResourceOpH€‡í‹P€’ô")1¤Ä2TFE_DeleteTensorHandleHÀ’ÑšPÀ–±":1¤Ä2&EagerExecute: __inference_addprint_309HÀÌÍŒ=P€¹å "?1¤Ä2+EagerLocalExecute: __inference_addprint_309H€ÑŠ=PÀ´Òä "21¤Ä2EagerCopyToDeviceAndAddCacheKeyH€Ú„Ž=P€¤è"J1¤Ä28TensorHandle::GetResourceHandleDtypesAndShapes WaitReadyHÀðµ=PÀ„="/1¤Ä2ValidateInputTypeAndPlacementH€¸âÜVP€‰z"&1¤Ä2EagerKernelExecuteH€ÊÖÞVP€·É’"|1¤Ä2FunctionRunHÀòûâVP€éö¸Z
-	step_name0Z
-id-1388767970626475041Z
-group_id0Z 
-name__inference_addprint_309"(1¤Ä2TFE_DeleteTensorHandleH€¥šé_PÀ„=")1¤Ä2TFE_DeleteTensorHandleHÀ²Ñê_PÀ–±"(1¤Ä2TFE_DeleteTensorHandleH€ó«dP€‰z"+1¤Ä2TFE_Py_FastPathExecute_CHÀó§ÆdP€´‰"(1¤Ä2TFE_DeleteTensorHandleHÀ»øÍdPÀ„="$1¤Ä2TFE_DeleteTensorHandleHÀÄòÎd"+1¤Ä2EagerExecute: LogicalAndHÀÍìÏdPÀÌ"01¤Ä2EagerLocalExecute: LogicalAndHÀÖæÐdPÀÃ“"/1¤Ä2ValidateInputTypeAndPlacementHÀßàÑdPÀ„="%1¤Ä2EagerKernelExecuteH€äÒdP€¶Ü"(1¤Ä2LogicalAnd:LogicalAndHÀñÔÓdPÀŸ«"+1¤Ä2TFE_Py_FastPathExecute_CHÀÄÿdPÀÞ
-")1¤Ä2EagerExecute: IdentityH€ÊÝ…eP€›î".1¤Ä2EagerLocalExecute: IdentityH€ÊÝ…eP€›î"/1¤Ä2ValidateInputTypeAndPlacementHÀÎš†ePÀ„="%1¤Ä2EagerKernelExecuteH€Ó×†eP€’ô"#1¤Ä2Identity:IdentityH€ÜÑ‡ePÀ„="+1¤Ä2TFE_Py_FastPathExecute_CHÀŸåŽePÀŸ«"(1¤Ä2TFE_DeleteTensorHandleHÀÆÎ»ePÀ„="(1¤Ä2TFE_DeleteTensorHandleH€œÖÄePÀ„="21¤Ä2EagerLocalExecute: WriteSummaryHÀƒÒÏePÀÞ
-"-1¤Ä2EagerExecute: WriteSummaryHÀƒÒÏePÀÞ
-"%1¤Ä2EagerKernelExecuteHÀŒÌÐePÀÕ‡	"+1¤Ä2ValidateInputTypeAndPlacementHÀŒÌÐe",1¤Ä2WriteSummary:WriteSummaryHÀ•ÆÑeP€ÈÐ"(1¤Ä2TFE_DeleteTensorHandleHÀïŠÛeP€‰z"(1¤Ä2TFE_DeleteTensorHandleHÀø„ÜePÀ„="$1¤Ä2TFE_DeleteTensorHandleH€ýÁÜe"$1¤Ä2TFE_DeleteTensorHandleH€ÎŒåe"(1¤Ä2TFE_DeleteTensorHandleHÀÒÉåePÀ„="(1¤Ä2TFE_DeleteTensorHandleH€¨ÑîePÀ„="$1¤Ä2TFE_DeleteTensorHandleH€±Ëïe"d1“Ê2ExecutorState::ProcessHÀÂ¡¯WP€–ÐÃZ
-group_id0Z
-id-1388767970626475041Z
-iter_num0"U1“Ê23demo_module/AssignAddVariableOp:AssignAddVariableOpH€âÌ²WP€ÚÄ	Z
-group_id0"W1“Ê26demo_module/StringFormat/ReadVariableOp:ReadVariableOpHÀöªÂWPÀ„=Z
-group_id0"G1“Ê2%demo_module/StringFormat:StringFormatHÀÿ¤ÃWP€­âZ
-group_id0">1“Ê2demo_module/PrintV2:PrintV2HÀ¬‡ÈWP€ÛŸ¢Z
-group_id0"C1“Ê2ExecutorDoneCallbackH€æ¨ô\PÀ‚êZ
-id-1388767970626475041"c1–Ê2ExecutorState::ProcessHÀ£ÇWP€­âZ
-iter_num0Z
-group_id0Z
-id-1388767970626475041">1–Ê2ReadVariableOp:ReadVariableOpHÀ¬‡ÈWPÀ„=Z
-group_id0
